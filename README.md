@@ -1,4 +1,4 @@
-# colleectd Python plugins
+# collectd Python plugins
 
 This repository contains *collectd* plugins written in the Python programming
 language.
@@ -8,7 +8,7 @@ More information about creating and configuring *collectd* Python plugins is ava
 
 ## License
 
-collectd Python plugins are licensed under the *MIT License*, unless otherwise
+*collectd* Python plugins are licensed under the *MIT License*, unless otherwise
 stated. The full text of the MIT License can be found in the `LICENSE` file.
 
 ## Authors
